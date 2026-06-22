@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TK-Manbaul-Ulum/static/css/main.a4a4f4d6.css",
+    "main.js": "/TK-Manbaul-Ulum/static/js/main.5faa4e72.js",
+    "index.html": "/TK-Manbaul-Ulum/index.html",
+    "main.a4a4f4d6.css.map": "/TK-Manbaul-Ulum/static/css/main.a4a4f4d6.css.map",
+    "main.5faa4e72.js.map": "/TK-Manbaul-Ulum/static/js/main.5faa4e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a4f4d6.css",
+    "static/js/main.5faa4e72.js"
+  ]
+}
