@@ -18,12 +18,6 @@ const rapor2025 = [
   { label: 'Kemitraan dengan Orang Tua/Wali', status: 'Baik', naik: false, nilai: '-6.8 dari 2024' },
 ];
 
-const ekskul = [
-  { icon: '🎶', nama: 'Angklung', tujuan: 'Melestarikan alat musik tradisional Sunda, melatih koordinasi, gotong royong' },
-  { icon: '🥋', nama: 'Tapak Suci / Pencak Silat', tujuan: 'Melatih kemampuan fisik motorik kasar dan bela diri sejak dini' },
-  { icon: '📖', nama: 'Tahfidz Quran', tujuan: 'Menguasai cara baca Al-Quran dan hafalan surat-surat pilihan' },
-];
-
 const rencanaPeningkatan = [
   'Peningkatan profesionalisme pendidik melalui pelatihan berkelanjutan',
   'Pengembangan asesmen yang lebih responsif terhadap karakteristik anak',

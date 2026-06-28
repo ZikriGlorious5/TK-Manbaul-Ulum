@@ -9,7 +9,7 @@ const intraData = [
   { icon: '✏️', title: 'Sentra Persiapan', color: 'bg-[#e3f2fd] border-[#bbdefb]', desc: 'Pengenalan huruf, angka, pramembaca dan pramenulis. Menyiapkan anak memasuki jenjang pendidikan dasar.', delay: 3 },
   { icon: '🌿', title: 'Kelas Bahan Alam', color: 'bg-[#e8f5e9] border-[#c8e6c9]', desc: 'Eksplorasi alam, berkebun, menanam biji, dan sains sederhana. Menumbuhkan kecintaan anak pada lingkungan.', delay: 4 },
   { icon: '🤸', title: 'Gerak & Lagu', color: 'bg-[#fffde7] border-[#fff9c4]', desc: 'Senam anak hebat setiap Rabu, gerak dan lagu harian, serta pengembangan motorik kasar bersama.', delay: 5 },
-  { icon: '🎵', title: 'Ekstrakurikuler', color: 'bg-[#e3f2fd] border-[#bbdefb]', desc: 'Angklung (alat musik tradisional), Tapak Suci/Pencak Silat, dan Tahfidz Quran — setiap hari setelah jam inti.', delay: 6 },
+
 ];
 
 const proyekData = [
